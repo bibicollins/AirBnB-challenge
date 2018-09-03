@@ -128,10 +128,12 @@ Change into the main directory:
 
 Run the app:
 `rackup`
+![homepage](https://imgur.com/9x6WEKe)
+
+Then open your browser, head to http://localhost:9292/ where you should find the page shown above. Then simply follow the signup instructions on the page.
 
 ![listings](https://i.imgur.com/UDMCv2I.png)
-
-Then open your browser, head to http://localhost:9292/listings where you should find the page shown above. Then simply follow the instructions on the page.
+After this you should be redirected to http://localhost:9292/listings where you should find the page shown above. From here you can add a listing by clicking on the button and filling in the details, after which you should see your new listing come up onto the bottom of the listings page. You can also 'book' a listing. 
 
 ## Running tests
 This app comes with a full feature test and unit tests.
