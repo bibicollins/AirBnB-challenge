@@ -115,7 +115,8 @@ Set up databases:
 `rake setup`
 
 Populate the databases with samples:
-`rake populate`
+`rake populate_listing`
+`rake populate_user`
 
 
 ## Usage
