@@ -119,6 +119,7 @@ Populate the databases with samples:
 `rake populate_listing`
 
 
+
 ## Usage
 Enter the following commands in your terminal:
 
