@@ -128,7 +128,7 @@ Change into the main directory:
 
 Run the app:
 `rackup`
-![homepage](https://imgur.com/9x6WEKe)
+![homepage](https://imgur.com/9x6WEKe.png)
 
 Then open your browser, head to http://localhost:9292/ where you should find the page shown above. Then simply follow the signup instructions on the page.
 
